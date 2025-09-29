@@ -1,0 +1,3 @@
+com.pohan.ultimate.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
