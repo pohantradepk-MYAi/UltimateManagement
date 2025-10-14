@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pohan.ultimate.app-mergeDebugResources-32:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rooh\\.gradle\\caches\\8.13\\transforms\\5df81c5b15eef89ff0855b7b6da108a1\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
